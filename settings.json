@@ -1,0 +1,15 @@
+{
+ // The path of the shell that the terminal uses on OS X.
+  "terminal.integrated.shell.osx": "/usr/local/bin/fish",
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "Default Light+",
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "spellright.language": "en",
+  "[elm]": {
+    "editor.formatOnSave": true,
+  },
+  "elm.analysePort": "3379",
+  "elm.analyseEnabled": true,
+  "files.autoSave": "afterDelay"
+}
